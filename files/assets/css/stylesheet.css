@@ -1,0 +1,20 @@
+.error_msgs
+{
+	color:red;
+	font-size:13px;
+}
+.delete_option {
+    Font-family: Cambria;
+    font-size: 15px;
+    text-decoration: none;
+    color: #ec6161;
+    font-weight: bold;
+}
+.Edit_option
+{
+	Font-family: Cambria;
+    font-size: 15px;
+    text-decoration: none;
+    color: #00adff;
+    font-weight: bold;
+}
